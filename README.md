@@ -1,4 +1,4 @@
 test-repo
 =========
 
-THis is test repo to learn myself how it works
+THis is test repo to learn how GitHub works
